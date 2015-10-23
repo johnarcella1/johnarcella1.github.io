@@ -1,0 +1,29 @@
+body {
+	background-image: url("images/nononsense.jpg");
+	background-repeat: cover;
+	text-align: center;
+	font-family: helvetica;
+	font-size: 14px;
+	color: #333333;
+	background-size: cover;
+}
+
+h1 {
+
+}
+
+ul{
+	font-size: 12px;
+	font-family: helvetica;
+	font-style: bold;
+	color: red;
+	text-align: center;
+	list-style-type: none;
+}
+li{
+	font-size: 18px;
+	font-weight: 800px;
+	color: blue;
+	text-align: center;
+	list-style: none;
+}
