@@ -14,12 +14,6 @@ body {
 	font-size: 18px;
 	margin: 2em;
 	position: relative;
-	}
-
-.image {
-	position: relative;
-	width: 100%;
-   
 }
 
 h1 {
@@ -77,4 +71,14 @@ li{
 	list-style: none;
 	letter-spacing: 2px;
 }
+.image {
+	position: relative;
+	width: 100%;
+}
+.container{width: 100%;
+	position: relative;
+}
 
+.headline{
+	position: absolute;
+}
